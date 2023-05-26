@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="sports" />
+    <string name="entertainment" />
+    <string name="art">\n</string>
+    <string name="start">\n</string>
+    <string name="category">\n</string>
+    <string name="choose_the" />
+</resources>
